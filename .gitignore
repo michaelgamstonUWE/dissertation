@@ -1,0 +1,6 @@
+.pio
+.vscode
+build/ 
+dependencies.lock
+tags/
+sdkconfig*
