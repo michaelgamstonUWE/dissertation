@@ -1,4 +1,4 @@
-#include "cnn.h"
+#include "CNN.h"
 #include "cnn_model.h"
 #include "tensorflow/lite/micro/all_ops_resolver.h"
 #include "tensorflow/lite/micro/micro_log.h"

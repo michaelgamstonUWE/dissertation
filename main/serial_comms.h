@@ -26,6 +26,7 @@ extern const uint32_t BUFFER_SIZE; // must be multiple of 4
 extern uint8_t *spi_slave_tx_buf;
 extern uint8_t *spi_slave_rx_buf;
 
+
 /*
     Input: N/A
     Outout: Allocate DMA buffers for rx and tx SPI buffers 
@@ -83,5 +84,3 @@ void copy_to_buffer();
 
 */
 bool send_image();
-
-
