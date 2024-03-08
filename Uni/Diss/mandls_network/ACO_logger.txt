@@ -1,0 +1,20 @@
+2024-03-08 12:11:38,180 {'start_node': 9, 'current_node': 11, 'path_tracker': [0, 1, 3, 5, 7, 14, 6, 9, 10, 11], 'i_have_been_stuck_once_already': True}
+2024-03-08 12:11:38,180 {'start_node': 9, 'current_node': 9, 'path_tracker': [13, 12, 10, 11, 3, 5, 7, 14, 6, 9], 'i_have_been_stuck_once_already': True}
+2024-03-08 12:11:38,181 {'start_node': 9, 'current_node': 8, 'path_tracker': [13, 12, 10, 11, 3, 5, 7, 9, 6, 14, 8], 'i_have_been_stuck_once_already': True}
+2024-03-08 12:11:38,181 {'start_node': 9, 'current_node': 0, 'path_tracker': [13, 12, 10, 9, 6, 14, 7, 5, 3, 4, 1, 0], 'i_have_been_stuck_once_already': True}
+2024-03-08 12:11:38,181 {'start_node': 9, 'current_node': 0, 'path_tracker': [13, 12, 10, 9, 6, 14, 7, 5, 3, 4, 1, 0], 'i_have_been_stuck_once_already': True}
+2024-03-08 12:11:38,182 {'start_node': 9, 'current_node': 13, 'path_tracker': [4, 3, 1, 2, 5, 7, 14, 6, 9, 10, 12, 13], 'i_have_been_stuck_once_already': True}
+2024-03-08 12:11:38,182 {'start_node': 9, 'current_node': 13, 'path_tracker': [7, 5, 14, 6, 9, 10, 12, 13], 'i_have_been_stuck_once_already': True}
+2024-03-08 12:11:38,182 {'start_node': 9, 'current_node': 0, 'path_tracker': [13, 12, 10, 9, 6, 14, 7, 5, 3, 4, 1, 0], 'i_have_been_stuck_once_already': True}
+2024-03-08 12:11:38,183 {'start_node': 9, 'current_node': 13, 'path_tracker': [8, 14, 6, 9, 10, 12, 13], 'i_have_been_stuck_once_already': True}
+2024-03-08 12:11:38,183 {'start_node': 9, 'current_node': 11, 'path_tracker': [13, 12, 10, 9, 6, 14, 7, 5, 3, 11], 'i_have_been_stuck_once_already': True}
+2024-03-08 12:11:38,183 {'start_node': 9, 'current_node': 11, 'path_tracker': [13, 12, 10, 9, 7, 5, 2, 1, 4, 3, 11], 'i_have_been_stuck_once_already': True}
+2024-03-08 12:11:38,183 {'start_node': 9, 'current_node': 9, 'path_tracker': [13, 12, 10, 11, 3, 1, 2, 5, 7, 14, 6, 9], 'i_have_been_stuck_once_already': True}
+2024-03-08 12:11:38,183 {'start_node': 9, 'current_node': 0, 'path_tracker': [13, 12, 10, 9, 6, 14, 7, 5, 3, 1, 0], 'i_have_been_stuck_once_already': True}
+2024-03-08 12:11:38,184 {'start_node': 9, 'current_node': 12, 'path_tracker': [6, 14, 7, 5, 2, 1, 3, 11, 10, 9, 13, 12], 'i_have_been_stuck_once_already': True}
+2024-03-08 12:11:38,184 {'start_node': 9, 'current_node': 2, 'path_tracker': [13, 12, 10, 9, 7, 5, 3, 1, 2], 'i_have_been_stuck_once_already': True}
+2024-03-08 12:11:38,185 {'start_node': 9, 'current_node': 11, 'path_tracker': [13, 12, 10, 9, 6, 14, 7, 5, 3, 11], 'i_have_been_stuck_once_already': True}
+2024-03-08 12:11:38,185 {'start_node': 9, 'current_node': 0, 'path_tracker': [13, 12, 10, 9, 6, 14, 7, 5, 3, 4, 1, 0], 'i_have_been_stuck_once_already': True}
+2024-03-08 12:11:38,185 {'start_node': 9, 'current_node': 13, 'path_tracker': [7, 5, 14, 6, 9, 10, 12, 13], 'i_have_been_stuck_once_already': True}
+2024-03-08 12:11:38,186 {'start_node': 9, 'current_node': 12, 'path_tracker': [0, 1, 4, 3, 11, 10, 9, 13, 12], 'i_have_been_stuck_once_already': True}
+2024-03-08 12:11:38,186 {'start_node': 9, 'current_node': 11, 'path_tracker': [0, 1, 4, 3, 5, 7, 9, 10, 11], 'i_have_been_stuck_once_already': True}
